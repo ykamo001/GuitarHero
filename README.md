@@ -6,7 +6,9 @@ https://www.youtube.com/watch?v=i45QvAkXZts
 
 ##Components:
 1) Breadboard
+
 2) Wires
+
 3) 8x8 LED Matrix
 4) Basic Keypad
 5) ATmega1284 Microcontroller
