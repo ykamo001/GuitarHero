@@ -2,7 +2,8 @@
 GuitarHero is my rendition of the game Guitar Hero on a breadboard with simple electrical components.
 This a brief video that will go over all the rules, game mechanics, and components used. 
 I suggest you watch the video first, and then refer back here to the written text, for an easier understanding.
-https://www.youtube.com/watch?v=i45QvAkXZts
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=i45QvAkXZts)](https://www.youtube.com/watch?v=i45QvAkXZts)
 
 ##Components:
 1. Breadboard
