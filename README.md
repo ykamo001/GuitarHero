@@ -3,11 +3,7 @@ GuitarHero is my rendition of the game Guitar Hero on a breadboard with simple e
 This a brief video that will go over all the rules, game mechanics, and components used. 
 I suggest you watch the video first, and then refer back here to the written text, for an easier understanding.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=i45QvAkXZts" target="_blank"><img src="http://img.youtube.com/vi/i45QvAkXZts/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/i45QvAkXZts/0.jpg)](http://www.youtube.com/watch?v=i45QvAkXZts)
-
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=i45QvAkXZts)](https://www.youtube.com/watch?v=i45QvAkXZts)
 
 ##Components:
 1. Breadboard
