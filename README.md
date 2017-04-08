@@ -5,7 +5,7 @@ I suggest you watch the video first, and then refer back here to the written tex
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/i45QvAkXZts/0.jpg)](http://www.youtube.com/watch?v=i45QvAkXZts)
 
-##Components:
+## Components:
 1. Breadboard
 2. Wires
 3. 8x8 LED Matrix
@@ -16,7 +16,7 @@ I suggest you watch the video first, and then refer back here to the written tex
 8. Potentionmeter
 9. 128 Ohm Resistors
 
-##How-To/Rules:
+## How-To/Rules:
 1. Press `*` to begin game.
 2. Press `#` to reset game at any time.
 3. LED Matrix row number that lights up represents the "note" to hit, corresponding to the number on the keypad. Watch video for example of this feature.
@@ -33,6 +33,6 @@ I suggest you watch the video first, and then refer back here to the written tex
 14. The Seven Segment Display shows your current grade. Your grade is based upon your standing to the highest score, i.e., it compares your current score to the max score achievable at that level.
 15. Grade scales from `A`, `B`, `C`, and `D`
 
-##Bugs
+## Bugs
 1. LCD Screen will begin to grow dim if LED Matrix is drawing too much power by having too many LED Matrix rows lit up at the same time. Mostly occurs when more than 5 rows are lit simultaneously. Can be fixed by reducing the number of rows that are lit, or changing the potentionmeter to your visibility preference.
 2. Althouh very rare, stickey keys can happen where it counts your single input twice, and proceeds to losing 10 points and 1 life, or more, depending on how long the incorrect note is held down.
